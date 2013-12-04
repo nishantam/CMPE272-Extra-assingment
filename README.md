@@ -84,6 +84,9 @@ Open Synaptic GUI tool, now directly search and select all the packages to be in
 
 
 
-Nishant Ajay Mehta
-smarts3.in
-nishant.a.m@gmail.com
+
+     Nishant Ajay Mehta
+
+     smarts3.in
+
+     nishant.a.m@gmail.com
