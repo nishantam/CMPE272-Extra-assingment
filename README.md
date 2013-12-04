@@ -1,6 +1,6 @@
 CMPE272-Extra-assignment
 ========================
-
+Nishant Ajay Mehta
 CMPE272 Extra Assignment for pyMPI
 
  I have completed my extra credit assignment of topic:
@@ -74,6 +74,11 @@ Save the code in same folder as pyMPI and run:
 
   
      $ mpirun -np 2 pyMPI msg.py
+
+
+Execution:
+1. With mpi.barrier()
+2. Without mpi.barrier() function.
 
 You can also use Synaptic Package Manager for installation:
 Install Synaptic Package Manager:
