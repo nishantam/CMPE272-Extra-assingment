@@ -3,7 +3,7 @@ CMPE272-Extra-assingment
 
 CMPE272 Extra Assignment for pyMPI
 
-      I have completed my extra credit assignment of topic:
+ I have completed my extra credit assignment of topic:
 
  Use pyMPI to implement a parallel program in python using MPI which send receives messages in parallel.http://pympi.sourceforge.net/ 
 
@@ -14,6 +14,7 @@ Send you two print-screens for execution execution  :
 2. Without mpi.barrier() function.
 
 Tutorial: 
+
 Pre-requisites:
 Python (which will be already installed in most cases)
   
