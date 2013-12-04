@@ -8,7 +8,7 @@ CMPE272 Extra Assignment for pyMPI
  Use pyMPI to implement a parallel program in python using MPI which send receives messages in parallel.http://pympi.sourceforge.net/ 
 
 I have attached my code and print-screens of code being executed.
-Send you two print-screens for execution execution  :
+Send you two print-screens for execution execution  (Saved with this project):
 
 1. With mpi.barrier()
 2. Without mpi.barrier() function.
@@ -75,10 +75,6 @@ Save the code in same folder as pyMPI and run:
   
      $ mpirun -np 2 pyMPI msg.py
 
-
-Execution:
-1. With mpi.barrier()
-2. Without mpi.barrier() function.
 
 You can also use Synaptic Package Manager for installation:
 Install Synaptic Package Manager:
