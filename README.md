@@ -16,28 +16,34 @@ Send you two print-screens for execution execution  :
 Tutorial: 
 Pre-requisites:
 Python (which will be already installed in most cases)
-  $sudo apt-get install python
+  
+     $sudo apt-get install python
 
 Install openMPI using command:
-  $sudo apt-get libopenmpi-dev
+  
+     $sudo apt-get libopenmpi-dev
 or
-  $sudo apt-get libopenmpi1.5-dev
+  
+     $sudo apt-get libopenmpi1.5-dev
 
 Now download pyMPI package to work with python from http://sourceforge.net/projects/pympi/files/latest/download
 
 extract the archive:
 
-  $tar -xvf pyMPI-2.5b0.tar.gz
+  
+     $tar -xvf pyMPI-2.5b0.tar.gz
 
 Write your python code for MPI:
 
 Save the code in same folder as pyMPI and run:
 
-  $ mpirun -np 2 pyMPI msg.py
+  
+     $ mpirun -np 2 pyMPI msg.py
 
 You can also use Synaptic Package Manager for installation:
-Install Synaptic Package Manageer:
-$sudo apt-get install synaptic
+Install Synaptic Package Manager:
+
+     $sudo apt-get install synaptic
 
 Open Synaptic GUI tool, now directly search and select all the packages to be installed.
 
